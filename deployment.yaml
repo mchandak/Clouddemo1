@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask-app1
-        image: gcr.io/flaskdemo1-443410/flask-app1:v3
+        image: gcr.io/flaskdemo2-443815/flask-app1:v3
         ports:
         - containerPort: 5000
    
